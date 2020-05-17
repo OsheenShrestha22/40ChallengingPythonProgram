@@ -1,2 +1,1 @@
-# OsheenSite
-Well, OsheenSite is my first project built in Django. I have been dedicating most of my time in learning Python. Recently, I am learning Django framework. And, OsheenSite is my first project built in Django framework. 
+I am learning Python on my own. I have taken the free course in Udemy, The Art of Doing: Code 40 Challenging Python Programs Today. To be honest this will be usefull only for the beginer who have just started to learn python.I think if you know the basic you can easily solve those 40 problems (might not be challenging oppss!!). I have attached the solution for every problem. Hope it will be of great use for practice for the beginer.
