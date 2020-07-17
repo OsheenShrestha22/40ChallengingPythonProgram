@@ -1,4 +1,4 @@
-```ruby
+```
 print("Welcome to the letter Counter App")
 name = input("Please enter your name :").title().strip()
 print(f"Hello {name}!")
@@ -18,4 +18,4 @@ print(count)
 """
 
 letter_count = message.count(character)
-```ruby
+```
